@@ -1,6 +1,6 @@
 class conf:
-    host = "localhost"
+    host = "hassa"
     database = "sandwich_maker_api"
     port = 3306
     user = "root"
-    password = "rootroot"
+    password = "Gungle2022"
